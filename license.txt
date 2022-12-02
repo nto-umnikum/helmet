@@ -1,0 +1,11 @@
+Model Information:
+* title:	helmet_result_2
+* source:	https://sketchfab.com/3d-models/helmet-result-2-b1fbeadeb881409ba7e2644fbf2106f2
+* author:	nto_umnikum (https://sketchfab.com/nto_umnikum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "helmet_result_2" (https://sketchfab.com/3d-models/helmet-result-2-b1fbeadeb881409ba7e2644fbf2106f2) by nto_umnikum (https://sketchfab.com/nto_umnikum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
